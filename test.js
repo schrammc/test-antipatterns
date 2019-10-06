@@ -16,4 +16,5 @@ function duplicateFunction(){
 	console.log("I'm a duplicate");
 	console.log("I'm a duplicate");
     }
+    alert("I'm a duplicate")
 }
